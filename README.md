@@ -1,4 +1,4 @@
-# Meu portfpolio
+# Meu portfolio
  Olá 👋, seja bem-vindo(a) ao meu portfolio! Este projeto é uma representação digital de mim mesmo, destacando quem eu sou, minhas habilidades e projetos.
 
 # Sobre
